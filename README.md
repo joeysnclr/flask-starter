@@ -9,7 +9,7 @@ Step 4
 
 Commit changes to Git
 `git add .`
-`git commit -m "commit 1!"`
+`git commit -am "commit 1!"`
 
 Push to Github
 `git push origin master`
