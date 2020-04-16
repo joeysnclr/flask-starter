@@ -5,4 +5,14 @@ Step 2
 Step 3
 > heroku create
 Step 4
-> git push heroku-git-url-from-step-3 master 
+> git push heroku-git-url-from-step-3 master
+
+Commit changes
+git add .
+git commit -m "commit 1!"
+
+Push to Github
+git push origin master
+
+Push to Heroku
+git push heroku-git-url-from-step-3 master
