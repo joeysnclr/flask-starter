@@ -1,18 +1,18 @@
 Step 1
-> git clone https://github.com/joeysnclr/flask-starter.git
+`git clone https://github.com/joeysnclr/flask-starter.git`
 Step 2
-> pip3 install -r requirements.txt
+`pip3 install -r requirements.txt`
 Step 3
-> heroku create
+`heroku create`
 Step 4
-> git push heroku-git-url-from-step-3 master
+`git push heroku-git-url-from-step-3 master`
 
-Commit changes
-git add .
-git commit -m "commit 1!"
+Commit changes to Git
+`git add .`
+`git commit -m "commit 1!"`
 
 Push to Github
-git push origin master
+`git push origin master`
 
 Push to Heroku
-git push heroku-git-url-from-step-3 master
+`git push heroku-git-url-from-step-3 master`
