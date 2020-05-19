@@ -1,16 +1,24 @@
 Step 1
 
-`git clone https://github.com/joeysnclr/flask-starter.git`
+`press use this template and create your new repo`
 
 Step 2
 
-`pip3 install -r requirements.txt`
+`git clone your-new-repo`
 
 Step 3
 
-`heroku create`
+`make a test commit to make sure everything is working`
 
 Step 4
+
+`pip3 install -r requirements.txt`
+
+Step 5
+
+`heroku create`
+
+Step 6
 
 `git push heroku-git-url-from-step-3 master`
 
